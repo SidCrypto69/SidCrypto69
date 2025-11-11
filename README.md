@@ -9,8 +9,9 @@
 ![](https://komarev.com/ghpvc/?username=SiddheshChavan&color=blue)
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SiddheshChavan&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=SidCrypto69&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
 
 ---
 
