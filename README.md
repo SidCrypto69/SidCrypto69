@@ -8,10 +8,6 @@
 
 ![](https://komarev.com/ghpvc/?username=SiddheshChavan&color=blue)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=SidCrypto69&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
 
 ---
 
@@ -30,7 +26,7 @@
   <img width="15" />
 
   <!-- Cloud Platforms -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
   <img width="15" />
@@ -54,7 +50,7 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img width="15" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Looker.svg" height="40" alt="Looker" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Google_Data_Studio_Logo.svg" height="40" alt="Looker Studio" />
   <img width="15" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" height="40" alt="Tableau" />
   <img width="15" />
