@@ -86,6 +86,9 @@
   <a href="https://www.instagram.com/siddhesh.pvt_xd/?igsh=MXh2dnVta2xtbTB5MQ%3D%3D#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
+  <a href="https://siddheshchavan.space" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=4CAF50&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
+  </a>
 </div>
 
 ---
